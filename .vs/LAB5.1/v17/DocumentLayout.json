@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\LAB5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\asus\\source\\repos\\LAB5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8282BB9-7FBB-4401-B402-3AEA30947C8C}|LAB5.1\\LAB5.1.vcxproj|C:\\Users\\asus\\source\\repos\\LAB5.1\\LAB5.1\\LAB5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8282BB9-7FBB-4401-B402-3AEA30947C8C}|LAB5.1\\LAB5.1.vcxproj|solutionrelative:LAB5.1\\LAB5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LAB5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LAB5.1\\UnitTest1\\UnitTest1.cpp*",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T17:14:24.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -30,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LAB5.1.cpp",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LAB5.1\\LAB5.1\\LAB5.1.cpp",
               "RelativeDocumentMoniker": "LAB5.1\\LAB5.1.cpp",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LAB5.1\\LAB5.1\\LAB5.1.cpp",
               "RelativeToolTip": "LAB5.1\\LAB5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-08T16:34:33.495Z",
               "EditorCaption": ""
